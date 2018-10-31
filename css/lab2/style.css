@@ -1,0 +1,37 @@
+* {
+    font-family: Tahoma;
+    font-size: 11px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    width: 250px;
+}
+
+li {
+    font-family: Consolas;
+}
+
+.red {
+    color: red;
+}
+
+.green.underline {
+    color: darkgreen;
+    text-decoration: underline;
+}

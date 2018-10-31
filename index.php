@@ -1,0 +1,1 @@
+<?php header( 'Location: page/lab2/my-lab2.html' ); ?>
