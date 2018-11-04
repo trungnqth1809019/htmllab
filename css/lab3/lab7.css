@@ -1,0 +1,103 @@
+* {
+    font-family: Consolas;
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 1px;
+}
+
+a {
+    text-underline: blue
+}
+
+.scroll {
+    border: 2px solid black;
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    background: darkseagreen;
+}
+
+.scroll img {
+    width: 20px;
+}
+
+.header {
+    border: 1px solid black;
+    height: 70px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background: darkseagreen;
+}
+
+.header .logo {
+
+    float: left;
+    width: 50%;
+}
+
+.logo img {
+    width: 10%;
+}
+
+.logo span {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.header .navigation {
+    float: left;
+    width: 50%;
+    /*text-align: center;*/
+}
+
+.title {
+    border: 1px solid black;
+    text-align: center;
+    color: honeydew;
+    background: dodgerblue;
+}
+
+.title .author{
+    text-align: right;
+    padding-right: 30%;
+}
+
+.body {
+    border: 1px solid black;
+}
+
+.body .margins {
+    float: left;
+    width: 13%;
+}
+
+.body .center {
+    float: left;
+    width: 74%;
+}
+
+.body .center .block {
+    float: left;
+    width: 33.33%;
+    padding: 2%;
+    text-align: justify;
+}
+
+.block img {
+    width: 100%;
+}
+
+.footer {
+    border: 1px solid black;
+    text-align: center;
+    color: honeydew;
+    background: dodgerblue;
+}
+
+.clear-both {
+    clear: both;
+}
