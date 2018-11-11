@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d3f3002-2fd9-4f55-877d-7562ede3d78f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmllab2018" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/lab4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lab2/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lab3/lab7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lab3/xaydunggiaodienweb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab1/Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab1/i.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab2/lab2picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab3/html-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lab3/scroll-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/gioi thieu ban than/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/describefamily.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/describepet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/example8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/exercise1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/exercise2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/exercise5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/exercise6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/exercise7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab1/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab2/my-lab2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab3/lab6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/lab3/lab7.html" beforeDir="false" />
-    </list>
+    <list default="true" id="8d3f3002-2fd9-4f55-877d-7562ede3d78f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -339,12 +302,12 @@
       <workItem from="1541939315010" duration="343000" />
       <workItem from="1541942990723" duration="1450000" />
       <workItem from="1541952125356" duration="652000" />
-      <workItem from="1541953481119" duration="679000" />
+      <workItem from="1541953481119" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63880000" />
+    <option name="totallyTimeSpent" value="64130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
