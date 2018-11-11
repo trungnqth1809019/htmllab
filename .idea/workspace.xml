@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d3f3002-2fd9-4f55-877d-7562ede3d78f" name="Default Changelist" comment="" />
+    <list default="true" id="8d3f3002-2fd9-4f55-877d-7562ede3d78f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmllab2018" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/lab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab3/lab7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab3/xaydunggiaodienweb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lab1/Li.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lab1/i.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lab2/lab2picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lab3/html-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lab3/scroll-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/gioi thieu ban than/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/describefamily.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/describepet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/example8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/exercise1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/exercise2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/exercise5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/exercise6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/exercise7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab1/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab2/my-lab2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab3/lab6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/lab3/lab7.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +52,7 @@
     <session id="-2129443721">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -57,14 +94,119 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1801427516">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="713" />
+          <entry key="html" value="607" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="713" />
+          <entry key="HTML" value="607" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="953650597">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="101" />
+          <entry key="html" value="118" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="101" />
+          <entry key="HTML" value="118" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="980057078">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="831146321">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-928290431">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -78,6 +220,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://banner2.kisspng.com/20180718/yy/kisspng-lublin-the-very-hungry-caterpillar-spielvereinigun-live-on-youtube-5b4ececd7f3228.068166761531891405521.jpg</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +243,8 @@
         <option value="$PROJECT_DIR$/page/lab3/lab7.html" />
         <option value="$PROJECT_DIR$/page/lab3/lab6.html" />
         <option value="$PROJECT_DIR$/page/lab3/index.html" />
+        <option value="$PROJECT_DIR$/css/lab4/lab4.css" />
+        <option value="$PROJECT_DIR$/page/lab4/lab4.html" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -120,28 +269,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="htmllab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmllab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htmllab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmllab" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htmllab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htmllab" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="htmllab - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htmllab - Copy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,6 +290,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,17 +327,38 @@
       <workItem from="1540999600431" duration="11910000" />
       <workItem from="1541078347863" duration="4724000" />
       <workItem from="1541252035196" duration="62000" />
-      <workItem from="1541299859862" duration="1876000" />
+      <workItem from="1541299859862" duration="2653000" />
+      <workItem from="1541588184876" duration="414000" />
+      <workItem from="1541597848382" duration="3666000" />
+      <workItem from="1541613086810" duration="2527000" />
+      <workItem from="1541659216244" duration="4991000" />
+      <workItem from="1541684118762" duration="560000" />
+      <workItem from="1541721537165" duration="90000" />
+      <workItem from="1541858278211" duration="9807000" />
+      <workItem from="1541938638511" duration="533000" />
+      <workItem from="1541939315010" duration="343000" />
+      <workItem from="1541942990723" duration="1450000" />
+      <workItem from="1541952125356" duration="652000" />
+      <workItem from="1541953481119" duration="679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37391000" />
+    <option name="totallyTimeSpent" value="63880000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960998" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24882995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,10 +367,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39692307" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -242,62 +403,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page/lab2/my-lab2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/lab2/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/page/lab2/my-lab2.html" />
+    <entry file="file://$PROJECT_DIR$/css/lab2/style.css" />
     <entry file="file://$PROJECT_DIR$/page/lab3/xaydunggiaodienweb.html" />
     <entry file="file://$PROJECT_DIR$/css/lab3/lab7.html" />
     <entry file="file://$PROJECT_DIR$/page/lab3/indẽ.html" />
-    <entry file="file://$PROJECT_DIR$/css/lab3/lab7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/lab3/lab7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/lab3/xaydunggiaodienweb.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/lab3/lab6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lab3/xaydunggiaodienweb.css" />
+    <entry file="file://$PROJECT_DIR$/page/lab3/lab6.html" />
+    <entry file="file://$PROJECT_DIR$/page/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/lab3/lab7.css" />
+    <entry file="file://$PROJECT_DIR$/page/lab3/lab7.html" />
+    <entry file="file://$PROJECT_DIR$/page/lab4/lab4.html" />
+    <entry file="file://$PROJECT_DIR$/css/lab4/lab4.css" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
